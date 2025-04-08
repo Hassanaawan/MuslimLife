@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85920320638",
+    "project_id": "muslimlife-372e2",
+    "storage_bucket": "muslimlife-372e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85920320638:android:071b4c076b716105d2dc2f",
+        "android_client_info": {
+          "package_name": "com.netrosystems.muslimlife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3LjVt6_QVgVg7HqDI8soRIZo2MJpmwoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

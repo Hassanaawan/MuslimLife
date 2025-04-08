@@ -1,0 +1,7 @@
+
+main Branch:
+Android Package Name: com.netrosystems.muslimlife
+
+
+ios Branch:
+iOS Package Name: com.netrosystems.muslimlife
